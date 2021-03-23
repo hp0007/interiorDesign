@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/iteriorDesign/static/css/main.900a2635.chunk.css",
+    "main.js": "/iteriorDesign/static/js/main.74cf4ab1.chunk.js",
+    "main.js.map": "/iteriorDesign/static/js/main.74cf4ab1.chunk.js.map",
+    "runtime-main.js": "/iteriorDesign/static/js/runtime-main.339fc1a6.js",
+    "runtime-main.js.map": "/iteriorDesign/static/js/runtime-main.339fc1a6.js.map",
+    "static/css/2.150d169a.chunk.css": "/iteriorDesign/static/css/2.150d169a.chunk.css",
+    "static/js/2.59bb690f.chunk.js": "/iteriorDesign/static/js/2.59bb690f.chunk.js",
+    "static/js/2.59bb690f.chunk.js.map": "/iteriorDesign/static/js/2.59bb690f.chunk.js.map",
+    "index.html": "/iteriorDesign/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/iteriorDesign/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.900a2635.chunk.css.map": "/iteriorDesign/static/css/main.900a2635.chunk.css.map",
+    "static/js/2.59bb690f.chunk.js.LICENSE.txt": "/iteriorDesign/static/js/2.59bb690f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/iteriorDesign/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/blog-1.f2bd91af.jpg": "/iteriorDesign/static/media/blog-1.f2bd91af.jpg",
+    "static/media/blog-2.99db9303.jpg": "/iteriorDesign/static/media/blog-2.99db9303.jpg",
+    "static/media/blog-3.1fff8fa3.jpg": "/iteriorDesign/static/media/blog-3.1fff8fa3.jpg",
+    "static/media/blog-4.258da889.jpg": "/iteriorDesign/static/media/blog-4.258da889.jpg",
+    "static/media/home-5.01b22017.jpg": "/iteriorDesign/static/media/home-5.01b22017.jpg",
+    "static/media/project-1.e4b2f893.jpg": "/iteriorDesign/static/media/project-1.e4b2f893.jpg",
+    "static/media/project-2.b3806bf9.jpg": "/iteriorDesign/static/media/project-2.b3806bf9.jpg",
+    "static/media/project-3.2ac76e25.jpg": "/iteriorDesign/static/media/project-3.2ac76e25.jpg",
+    "static/media/project-4.b865e51a.jpg": "/iteriorDesign/static/media/project-4.b865e51a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.339fc1a6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.59bb690f.chunk.js",
+    "static/css/main.900a2635.chunk.css",
+    "static/js/main.74cf4ab1.chunk.js"
+  ]
+}
