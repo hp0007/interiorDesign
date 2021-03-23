@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iteriorDesign/static/css/main.900a2635.chunk.css",
-    "main.js": "/iteriorDesign/static/js/main.74cf4ab1.chunk.js",
-    "main.js.map": "/iteriorDesign/static/js/main.74cf4ab1.chunk.js.map",
+    "main.js": "/iteriorDesign/static/js/main.1dd73fc6.chunk.js",
+    "main.js.map": "/iteriorDesign/static/js/main.1dd73fc6.chunk.js.map",
     "runtime-main.js": "/iteriorDesign/static/js/runtime-main.339fc1a6.js",
     "runtime-main.js.map": "/iteriorDesign/static/js/runtime-main.339fc1a6.js.map",
     "static/css/2.150d169a.chunk.css": "/iteriorDesign/static/css/2.150d169a.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.59bb690f.chunk.js",
     "static/css/main.900a2635.chunk.css",
-    "static/js/main.74cf4ab1.chunk.js"
+    "static/js/main.1dd73fc6.chunk.js"
   ]
 }
