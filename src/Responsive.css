@@ -1,0 +1,268 @@
+:root {
+  --primary_color: #000;
+  --secondary_color: #fff;
+  --gray_color: #808080;
+}
+@media screen and (min-width: 600px) and (max-width: 1023px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .navbar {
+    width: 100vw;
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+  }
+  .navbar img {
+    /* height: 4rem;
+    width: 12rem; */
+    margin-left: -20% !important;
+  }
+  .navbar .fa-nav {
+    font-size: 1.8rem;
+    margin-left: 45%;
+    color: var(--primary_color);
+    font-weight: 600;
+  }
+  .navbar .navbar-nav {
+    padding: 10% 0% 2% 1%;
+  }
+  .banner {
+    width: 100%;
+  }
+  .banner .left {
+    width: 100%;
+    position: absolute;
+    top: 80%;
+    left: 0%;
+  }
+  .banner .left .content {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    padding: 0% 5%;
+    background-color: #fff;
+  }
+  .banner .left .content h3 {
+    font-size: 2rem;
+  }
+  .banner .left .content p {
+    margin: 0% 0;
+  }
+  .banner .left .btn {
+    width: 40%;
+    padding: 2% 0%;
+    margin: 5% auto 0% auto;
+  }
+  .banner .right {
+    padding: 0% 2%;
+  }
+  .banner .right img {
+    height: 80%;
+    width: 100%;
+    margin-top: 15%;
+    padding: 0% 4% 0% 4%;
+  }
+  .title {
+    padding: 4% 0% 4% 6%;
+  }
+  .title h3 {
+    font-size: 1.5rem;
+  }
+  .viewpoint h3 {
+    margin-top: -10%;
+  }
+  .viewpoint .row {
+    padding: 0 4% 0 4% !important;
+  }
+  .viewpoint .row .col-12 {
+    margin-bottom: 4%;
+  }
+  .our-project .row {
+    padding: 0 4% 0 4%;
+  }
+  .our-project .right {
+    margin-top: 10%;
+  }
+  .our-project .right .btn {
+    margin-top: 2%;
+  }
+  #prev {
+    bottom: -15%;
+  }
+  #next {
+    bottom: -15%;
+  }
+  .how-work-head {
+    margin-top: -5%;
+  }
+
+  .blog .card .card-body {
+    padding: 10% 0 !important;
+  }
+  .contact .right {
+    margin: 0% 0%;
+  }
+  .contact .row .btn {
+    padding: 1% 10%;
+  }
+  .footer .container-fluid {
+    flex-direction: column !important;
+  }
+  .footer .left {
+    width: 50%;
+    margin: 0;
+    padding: 3%;
+  }
+  .footer img {
+    width: 9rem;
+    height: 3rem;
+  }
+  .footer .header .navlink {
+    padding: 0;
+    margin-right: 1% !important;
+  }
+  .footer .left .icons {
+    padding: 5% 0%;
+  }
+  .footer .left .icons i {
+    margin-left: 2.5%;
+  }
+  .footer .getintouch {
+    width: 50%;
+    position: relative;
+    left: 0;
+    float: right;
+    padding: 2% 0 2% 4%;
+  }
+}
+@media screen and (max-width: 500px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .navbar {
+    width: 100vw;
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+  }
+  .navbar img {
+    height: 2.5rem;
+    width: 8rem;
+    margin: -40% !important;
+  }
+  .navbar .fa-nav {
+    font-size: 1.8rem;
+    margin-left: 45%;
+    color: var(--primary_color);
+    font-weight: 600;
+  }
+  .navbar .navbar-nav {
+    padding: 10% 0% 2% 1%;
+  }
+  .banner {
+    width: 100%;
+  }
+  .banner .left {
+    width: 100%;
+    position: absolute;
+    top: 75%;
+    left: 0%;
+  }
+  .banner .left .content {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    padding: 0% 5%;
+    background-color: #fff;
+  }
+  .banner .left .content h3 {
+    font-size: 2rem;
+  }
+  .banner .left .content p {
+    margin: 5% 0;
+  }
+  .banner .left .btn {
+    width: 100%;
+    padding: 2% 0%;
+    margin: 5% 0;
+  }
+  .banner .right {
+    padding: 0% 5%;
+  }
+  .banner .right img {
+    height: 80%;
+    width: 100%;
+    margin-top: 15%;
+  }
+  .title {
+    padding: 4% 0% 4% 5%;
+  }
+  .title h3 {
+    font-size: 1.5rem;
+  }
+  .viewpoint .row {
+    padding: 0 0 0 1%;
+  }
+  .viewpoint .row .col-12 {
+    margin-bottom: 4%;
+  }
+  .our-project .row {
+    padding: 0 0 0 1%;
+  }
+  .our-project .right {
+    margin-top: 17%;
+  }
+  #prev {
+    bottom: -30%;
+  }
+  #next {
+    bottom: -30%;
+  }
+  .how-work-head {
+    margin-top: 5%;
+  }
+
+  .blog .card .card-body {
+    padding: 10% 0 !important;
+  }
+  .contact .right {
+    margin: 8% 0%;
+  }
+  .contact .row .btn {
+    padding: 1% 8%;
+  }
+  .footer .container-fluid {
+    flex-direction: column !important;
+  }
+  .footer .left {
+    width: 100%;
+    margin: 0;
+    padding: 3%;
+    width: 100%;
+  }
+  .footer img {
+    width: 9rem;
+    height: 3rem;
+  }
+  .footer .header .navlink {
+    padding: 0;
+    margin-right: 1% !important;
+  }
+  .footer .left .icons {
+    padding: 5% 0%;
+  }
+  .footer .left .icons i {
+    margin-left: 2.5%;
+  }
+  .footer .getintouch {
+    width: 100%;
+    position: relative;
+    left: 0;
+    padding: 2% 0 2% 4%;
+  }
+}
