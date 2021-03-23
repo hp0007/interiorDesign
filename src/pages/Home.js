@@ -138,12 +138,13 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="container-fluid">
-        <div className="row">
-          <Heading title="Special viewpoint" />
-        </div>
-      </div>
+
       <div className="container-fluid viewpoint">
+        <div className="container-fluid">
+          <div className="row">
+            <Heading title="Special viewpoint" />
+          </div>
+        </div>
         <div className="row">
           <div className="col-12 col-sm-12 col-md-12 col-lg-6">
             We believe that interior design should be such that even after many
@@ -157,12 +158,13 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="container-fluid">
-        <div className="row">
-          <Heading title="Our projects" />
-        </div>
-      </div>
+
       <div className="container-fluid our-project">
+        <div className="container-fluid">
+          <div className="row">
+            <Heading title="Our projects" />
+          </div>
+        </div>
         <div className="row">
           <div className="col-12 col-sm-12 col-md-12 col-lg-8 left">
             <div class="slider">
@@ -207,28 +209,31 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="container-fluid how-work-head">
-        <div className="row">
-          <Heading title="How is the work on the project carried out" />
-        </div>
-      </div>
+
       <div className="how-work-project">
+        <div className="container-fluid how-work-head">
+          <div className="row">
+            <Heading title="How is the work on the project carried out" />
+          </div>
+        </div>
         <Cards value={cardData.how_work} />
       </div>
-      <div className="container-fluid blog-head">
-        <div className="row">
-          <Heading title="Blog" />
-        </div>
-      </div>
+
       <div className="blog">
+        <div className="container-fluid blog-head">
+          <div className="row">
+            <Heading title="Blog" />
+          </div>
+        </div>
         <ImgCards value2={cardData.ImgCard} />
       </div>
-      <div className="container-fluid contact-head">
-        <div className="row">
-          <Heading title="Let's talk about your project" />
-        </div>
-      </div>
+
       <div className="contact">
+        <div className="container-fluid contact-head">
+          <div className="row">
+            <Heading title="Let's talk about your project" />
+          </div>
+        </div>
         <div className="container-fluid">
           <div className="row">
             <div className="col-12 col-sm-12 col-md-5 col-lg-3 left">

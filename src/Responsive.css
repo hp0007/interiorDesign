@@ -172,7 +172,7 @@
   .banner .left {
     width: 100%;
     position: absolute;
-    top: 75%;
+    top: 70%;
     left: 0%;
   }
   .banner .left .content {
@@ -202,19 +202,20 @@
     margin-top: 15%;
   }
   .title {
-    padding: 4% 0% 4% 5%;
+    padding: 0% 0% 4% 0%;
   }
   .title h3 {
     font-size: 1.5rem;
   }
   .viewpoint .row {
-    padding: 0 0 0 1%;
+    padding: 0 0%;
   }
   .viewpoint .row .col-12 {
     margin-bottom: 4%;
   }
   .our-project .row {
-    padding: 0 0 0 1%;
+    margin-top: 2%;
+    padding: 0 0 0 0%;
   }
   .our-project .right {
     margin-top: 17%;
@@ -251,9 +252,16 @@
     width: 9rem;
     height: 3rem;
   }
+  .footer .getintouch .header {
+    padding: 3% 0 4% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   .footer .header .navlink {
-    padding: 0;
-    margin-right: 1% !important;
+    padding: 0%;
+    margin-left: 0% !important;
+    margin-right: 4% !important;
   }
   .footer .left .icons {
     padding: 5% 0%;

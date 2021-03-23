@@ -80,7 +80,7 @@ p {
 }
 .title {
   width: 100%;
-  padding: 4% 6%;
+  padding: 4% 0%;
 }
 .title h3 {
   font-size: 2.2rem;
@@ -91,7 +91,7 @@ p {
   width: 100%;
 }
 .viewpoint .row {
-  padding: 0% 5% 0 5%;
+  padding: 0% 4% 0 4%;
   font-weight: 600;
   color: var(--gray_color);
   hyphens: auto;
@@ -101,7 +101,7 @@ p {
   height: 100%;
 }
 .our-project .row {
-  padding: 0% 5% 0% 5%;
+  padding: 0% 4% 0% 4%;
   hyphens: auto;
 }
 .our-project .row .btn {
@@ -143,14 +143,14 @@ p {
 }
 #prev {
   position: absolute;
-  bottom: -7%;
+  bottom: -13%;
   right: 5rem;
   cursor: pointer;
   font-size: 2.5rem;
 }
 #next {
   position: absolute;
-  bottom: -7%;
+  bottom: -13%;
   right: 1rem;
   font-size: 2.5rem;
   cursor: pointer;
@@ -161,9 +161,12 @@ p {
 }
 .how-work-project {
   width: 100%;
+  height: 100%;
 }
 .how-work-project .row {
-  padding: 0% 3% 0% 3%;
+  margin-top: 5%;
+  margin-bottom: -5%;
+  padding: 0% 5% 0% 5%;
 }
 .how-work-project .row .card {
   margin-bottom: 10%;
