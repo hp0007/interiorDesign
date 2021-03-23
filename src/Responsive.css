@@ -207,6 +207,9 @@
   .title h3 {
     font-size: 1.5rem;
   }
+  .viewpoint {
+    margin-top: -5%;
+  }
   .viewpoint .row {
     padding: 0 0%;
   }
