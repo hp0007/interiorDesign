@@ -139,12 +139,20 @@
   }
 }
 
-@media screen and (min-width: 500px) and (max-width: 800px) {
+@media screen and (min-width: 500px) and (max-width: 1024px) {
   .banner .left {
-    top: 63%;
+    top: 72%;
   }
   .viewpoint {
-    margin-top: -30%;
+    margin-top: -14%;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+  .banner .left .content h3 {
+    font-size: 2rem;
+  }
+  .viewpoint {
+    margin-top: -80%;
   }
 }
 @media screen and (max-width: 500px) {
@@ -181,7 +189,7 @@
   .banner .left {
     width: 100%;
     position: absolute;
-    top: 72%;
+    top: 70%;
     left: 0%;
   }
   .banner .left .content {
@@ -217,7 +225,7 @@
     font-size: 1.5rem;
   }
   .viewpoint {
-    margin-top: -5%;
+    margin-top: -10%;
   }
   .viewpoint .row {
     padding: 0 0%;
