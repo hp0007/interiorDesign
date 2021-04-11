@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import HomeImg from "../assets/images/home-5.jpg";
+import HomeImg from "../assets/images/home-1.jpg";
 import Heading from "../components/Heading";
 import Button from "../components/Button";
 import slide1 from "../assets/images/project-3.jpg";

@@ -35,14 +35,14 @@
   .banner .left {
     width: 100%;
     position: absolute;
-    top: 80%;
+    top: 77%;
     left: 0%;
   }
   .banner .left .content {
     width: 100%;
     position: absolute;
     left: 0;
-    padding: 0% 5%;
+    padding: 0% 6%;
     background-color: #fff;
   }
   .banner .left .content h3 {
@@ -66,7 +66,7 @@
     padding: 0% 4% 0% 4%;
   }
   .title {
-    padding: 4% 0% 4% 6%;
+    padding: 4% 0% 4% 0%;
   }
   .title h3 {
     font-size: 1.5rem;
@@ -138,6 +138,15 @@
     padding: 2% 0 2% 4%;
   }
 }
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+  .banner .left {
+    top: 63%;
+  }
+  .viewpoint {
+    margin-top: -30%;
+  }
+}
 @media screen and (max-width: 500px) {
   html,
   body {
@@ -186,7 +195,7 @@
     font-size: 2rem;
   }
   .banner .left .content p {
-    margin: 5% 0;
+    margin: 2% 0;
   }
   .banner .left .btn {
     width: 100%;
@@ -277,5 +286,22 @@
     position: relative;
     left: 0;
     padding: 2% 0 2% 4%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .banner .left .content h3 {
+    font-size: 1.7rem;
+  }
+  .banner .left .content p {
+    margin: 2% 0;
+    font-size: 0.8rem;
+  }
+}
+@media screen and (min-height: 670px) and (max-height: 900px) {
+  .banner .left {
+    top: 63%;
+  }
+  .viewpoint {
+    margin-top: -32%;
   }
 }
