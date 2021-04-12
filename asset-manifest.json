@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/interiorDesign/static/css/main.7c57ff5c.chunk.css",
+    "main.css": "/interiorDesign/static/css/main.c90e4737.chunk.css",
     "main.js": "/interiorDesign/static/js/main.b5e7cb54.chunk.js",
     "main.js.map": "/interiorDesign/static/js/main.b5e7cb54.chunk.js.map",
     "runtime-main.js": "/interiorDesign/static/js/runtime-main.8978a841.js",
@@ -10,7 +10,7 @@
     "static/js/2.59bb690f.chunk.js.map": "/interiorDesign/static/js/2.59bb690f.chunk.js.map",
     "index.html": "/interiorDesign/index.html",
     "static/css/2.150d169a.chunk.css.map": "/interiorDesign/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.7c57ff5c.chunk.css.map": "/interiorDesign/static/css/main.7c57ff5c.chunk.css.map",
+    "static/css/main.c90e4737.chunk.css.map": "/interiorDesign/static/css/main.c90e4737.chunk.css.map",
     "static/js/2.59bb690f.chunk.js.LICENSE.txt": "/interiorDesign/static/js/2.59bb690f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/interiorDesign/static/media/Poppins-Regular.8081832f.ttf",
     "static/media/blog-1.f2bd91af.jpg": "/interiorDesign/static/media/blog-1.f2bd91af.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.8978a841.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.59bb690f.chunk.js",
-    "static/css/main.7c57ff5c.chunk.css",
+    "static/css/main.c90e4737.chunk.css",
     "static/js/main.b5e7cb54.chunk.js"
   ]
 }
