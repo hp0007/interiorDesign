@@ -120,7 +120,7 @@ const Home = () => {
     <div>
       <div className="container-fluid banner">
         <div className="row">
-          <div className="col-12 col-sm-12 col-md-12 col-lg-5 left">
+          <div className="col-12 col-sm-12 col-md-12 col-lg-5 col-xl-5 left">
             <div className="content">
               <h3>Interior design</h3>
               <p>
@@ -133,7 +133,7 @@ const Home = () => {
               <Button name="Create a project" />
             </div>
           </div>
-          <div className="col-12 col-sm-12 col-md-12 col-lg-7 right">
+          <div className="col-12 col-sm-12 col-md-12 col-lg-7 col-xl-7 right">
             <img src={HomeImg} alt="homeimg" />
           </div>
         </div>
