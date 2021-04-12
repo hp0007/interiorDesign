@@ -133,7 +133,7 @@ const Home = () => {
               <Button name="Create a project" />
             </div>
           </div>
-          <div className="col-12 col-sm-12 col-md-12 col-lg-7 col-xl-7 right">
+          <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-7 right">
             <img src={HomeImg} alt="homeimg" />
           </div>
         </div>
