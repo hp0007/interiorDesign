@@ -65,12 +65,19 @@
     margin: 5% auto 0% auto;
   }
   .banner .right {
+    width: 100%;
     padding: 0% 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
   .banner .right img {
     height: 80%;
     width: 100%;
     margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     padding: 0% 4% 0% 4%;
   }
   .title {
@@ -335,6 +342,9 @@
     width: 100%;
     z-index: 0;
   }
+  .banner .row {
+    margin: 0;
+  }
   .banner .left {
     width: 100%;
     position: absolute;
@@ -360,7 +370,10 @@
     margin: 5% 0;
   }
   .banner .right {
-    padding: 0% 5%;
+    width: 100%;
+    padding: 0% 0%;
+    margin: 0 auto;
+    display: block;
   }
   .banner .right img {
     height: 80%;
