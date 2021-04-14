@@ -3,6 +3,14 @@
   --secondary_color: #fff;
   --gray_color: #808080;
 }
+@media screen and (max-height: 620px) {
+  .banner .left {
+    top: 80% !important;
+  }
+  .viewpoint {
+    margin-top: 7% !important;
+  }
+}
 @media screen and (min-width: 600px) and (max-width: 1023px) {
   html,
   body {
